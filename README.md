@@ -1,2 +1,4 @@
-# MZ700onAlteraFPGA
-MZ-700/1500 implementation for Altera FPGA boards
+# MZ700 on Altera FPGA boards
+シャープMZ-700/MZ-1500(可能ならMZ-800も)のFPGAへの実装プロジェクトです。Altera製FPGAを搭載した学習用その他のFPGAボードを対象にしています。
+
+これまではボードごとにプロジェクトを作っていましたが、できるだけソースを共通化することでサポートするボード全てに対して変更・修正が行き渡るようにしたいと思っているのですが…うまくいくといいなぁ(ぉぃ
